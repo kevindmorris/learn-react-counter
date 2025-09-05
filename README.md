@@ -1,6 +1,5 @@
 # Counter
 
-> [! IMPORTANT] 
 > This is a [Learn React](https://github.com/kevindmorris/learn-react) application.
 
 ## ✨ Requirements
